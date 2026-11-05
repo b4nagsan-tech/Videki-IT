@@ -1,1 +1,1 @@
-﻿
+﻿// A feladat az hogy ez a valami ember és autot => ha ember akkor nev szem. ha auto akkor rendszam es tipus. ezt egy kulon faljba es idot is mentsen
