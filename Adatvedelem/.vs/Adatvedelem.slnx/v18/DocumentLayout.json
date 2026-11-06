@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\",
+  "WorkspaceRootPath": "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{142EE0A5-F840-C5A6-529D-650119FDEC47}|Adatvedelem\\Adatvedelem.csproj|c:\\users\\b4nagsan\\desktop\\b4keyboardwarriors\\adatvedelem\\adatvedelem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{142EE0A5-F840-C5A6-529D-650119FDEC47}|Adatvedelem\\Adatvedelem.csproj|c:\\users\\b4totalm\\desktop\\b4keyboardwarriors\\adatvedelem\\adatvedelem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{142EE0A5-F840-C5A6-529D-650119FDEC47}|Adatvedelem\\Adatvedelem.csproj|solutionrelative:adatvedelem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Program.cs",
               "RelativeDocumentMoniker": "Adatvedelem\\Program.cs",
-              "ToolTip": "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Program.cs",
+              "ToolTip": "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Program.cs",
               "RelativeToolTip": "Adatvedelem\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-05T11:23:10.361Z",
               "EditorCaption": ""

@@ -1,26 +1,30 @@
 ﻿// bekérendő adatok: név nem kor SZ.I. szám 
 
-using System.Runtime.CompilerServices;
-
+Dictionary<string, int> jarmuvek = new();
+Dictionary<string, int> jarmuvek = new();
 List<string> jarmuvek = new();
 
 Console.WriteLine("Elindítás (0)");
 int i = int.Parse(Console.ReadLine());
 
-while (i == 0)
+while (true)
 {
-    Console.WriteLine("Jármű (0) vagy Személy (1)");
+    Console.WriteLine("Jármű (0) Személy (1) Leállítás(2)");
 
     if (Console.ReadLine() == "0")
     {
-        Console.WriteLine("Típusát: ");
-        string tipus = Console.ReadLine();
         Console.WriteLine("Rendszám: ");
         string rendsz = Console.ReadLine();
+
+        Console.WriteLine("Típusát: ");
+        string tipus = Console.ReadLine();
+
         Console.WriteLine("Súly: ");
-        string suly = Console.ReadLine();
+        double suly = double.Parse(Console.ReadLine());
+
         Console.WriteLine("Márka: ");
         string marka = Console.ReadLine();
+
         Console.WriteLine("Magasság: ");
         double magas = double.Parse(Console.ReadLine());
     }
@@ -38,5 +42,6 @@ while (i == 0)
     else if (Console.ReadLine() == "2")
     {
         Console.WriteLine("Leállítás");
+        break;
     }
 }
