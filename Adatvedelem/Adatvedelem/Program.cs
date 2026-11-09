@@ -1,6 +1,8 @@
 ﻿// bekérendő adatok: név nem kor SZ.I. szám 
 using System.IO;
 
+Console.WriteLine("Üdvözöljük!");
+Console.WriteLine();
 
 while (true)
 {
@@ -26,6 +28,10 @@ while (true)
         Console.Write("Magasság (cm): ");
         double magas = double.Parse(Console.ReadLine());
 
+        Console.WriteLine();
+        Console.WriteLine("A járművet sikeresen elmentettük az adatbazis.txt-be");
+        Console.WriteLine();
+
         File.AppendAllText("adatbazis.txt", $"{idomost:D:T};Jarmu;{rendsz};{tipus};{suly};{marka};{magas}\n");
     }
     else if (meik == 1)
@@ -43,6 +49,10 @@ while (true)
 
         Console.Write("Személyi igazolvány szám: ");
         string sziszam = Console.ReadLine();
+
+        Console.WriteLine();
+        Console.WriteLine("A személyt sikeresen elmentettük az adatbazis.txt-be");
+        Console.WriteLine();    
 
         File.AppendAllText("adatbazis.txt", $"{idomost:f};Szemely;{nev};{nem};{kor};{sziszam}\n");
     }
