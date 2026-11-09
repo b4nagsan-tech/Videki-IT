@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\",
+  "WorkspaceRootPath": "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9061CB92-CC2A-4FDA-8283-28FD638883E6}|belepteto_rendszer\\belepteto_rendszer.csproj|c:\\users\\b4nagsan\\desktop\\belepteto_rendszer\\belepteto_rendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9061CB92-CC2A-4FDA-8283-28FD638883E6}|belepteto_rendszer\\belepteto_rendszer.csproj|solutionrelative:belepteto_rendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCF411C-182B-8222-74B3-9EEE0B914F06}|belepteto_rendszer\\belepteto_rendszer.csproj|c:\\users\\b4nagsan\\desktop\\videki-it\\belepteto_rendszer\\belepteto_rendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF411C-182B-8222-74B3-9EEE0B914F06}|belepteto_rendszer\\belepteto_rendszer.csproj|solutionrelative:belepteto_rendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\belepteto_rendszer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\belepteto_rendszer\\Program.cs",
               "RelativeDocumentMoniker": "belepteto_rendszer\\Program.cs",
-              "ToolTip": "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\belepteto_rendszer\\Program.cs",
+              "ToolTip": "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\belepteto_rendszer\\Program.cs",
               "RelativeToolTip": "belepteto_rendszer\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwHYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T10:24:18.119Z",
               "EditorCaption": ""

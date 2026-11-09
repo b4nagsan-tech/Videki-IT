@@ -1,5 +1,6 @@
 ﻿// bekérendő adatok: név nem kor SZ.I. szám 
 using System.IO;
+FileInfo info = new("adatbazis.txt");
 
 Console.WriteLine("Üdvözöljük!");
 Console.WriteLine();
@@ -68,7 +69,7 @@ while (true)
 
     else if (meik == 1)
     {
-        foreach (string sor in File.ReadLines("adatbazis.txt").Skip(1))
+        foreach (string sor in File.ReadLines("adatbazis.txt"))
         {
             Console.WriteLine(sor);
             Console.WriteLine();

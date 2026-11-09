@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj": {}
+    "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj": {
+    "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj",
+        "projectUniqueName": "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj",
         "projectName": "belepteto_rendszer",
-        "projectPath": "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj",
+        "projectPath": "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\belepteto_rendszer\\belepteto_rendszer.csproj",
         "packagesPath": "C:\\Users\\b4nagsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b4nagsan\\Desktop\\belepteto_rendszer\\belepteto_rendszer\\obj\\",
+        "outputPath": "C:\\Users\\b4nagsan\\Desktop\\Videki-IT\\belepteto_rendszer\\belepteto_rendszer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

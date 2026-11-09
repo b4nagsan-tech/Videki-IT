@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("belepteto_rendszer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd7b1f8a40d04d392f82ce1c55fe0f825ab2946")]
 [assembly: System.Reflection.AssemblyProductAttribute("belepteto_rendszer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("belepteto_rendszer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
