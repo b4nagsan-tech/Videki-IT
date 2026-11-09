@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj": {}
+    "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj": {
+    "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj",
+        "projectUniqueName": "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj",
         "projectName": "Adatvedelem",
-        "projectPath": "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj",
-        "packagesPath": "C:\\Users\\b4nagsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b4nagsan\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\obj\\",
+        "projectPath": "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\Adatvedelem.csproj",
+        "packagesPath": "C:\\Users\\b4totalm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b4totalm\\Desktop\\b4keyboardwarriors\\Adatvedelem\\Adatvedelem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\b4nagsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\b4totalm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
