@@ -85,7 +85,7 @@ while (true)
         bool benne = false;
         string josor = "";
 
-        foreach (string sor in File.ReadLines("adatbazis.txt").Skip(1))
+        foreach (string sor in File.ReadLines("adatbazis.txt"))
         {
             if (sor.Contains(keress))
             {
