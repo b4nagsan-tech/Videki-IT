@@ -69,6 +69,8 @@ while (true)
 
     else if (meik == 1)
     {
+        string[] sorok = File.ReadAllLines("adatbazis.txt");
+        Console.WriteLine($" Elemek száma: {sorok.Count()}");
         foreach (string sor in File.ReadLines("adatbazis.txt"))
         {
             Console.WriteLine(sor);
@@ -83,21 +85,24 @@ while (true)
         Console.WriteLine();
 
         bool benne = false;
-        string josor = "";
+        List<string> josorok = new();
 
         foreach (string sor in File.ReadLines("adatbazis.txt"))
         {
             if (sor.Contains(keress))
             {
                 benne = true;
-                josor = sor;
-                break;
+                josorok.Add(sor);
             }
         }
         if (benne == true)
         {
-            Console.WriteLine(josor);
-            Console.WriteLine();
+            Console.WriteLine($" {josorok.Count()} találat:");
+            foreach (string josor in josorok)
+            {
+                Console.WriteLine(josor);
+                Console.WriteLine();
+            }
         }
         else
         {
